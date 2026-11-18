@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Bearings</title>
+  <link>https://samcg2.github.io/bearings-audio/</link>
+  <atom:link href="https://samcg2.github.io/bearings-audio/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-gb</language>
+  <description>A weekly audio digest on care, chaplaincy and leadership, with deep dives on request. Made for one listener.</description>
+  <itunes:author>Bearings</itunes:author>
+  <itunes:summary>A weekly audio digest on care, chaplaincy and leadership, with deep dives on request.</itunes:summary>
+  <itunes:image href="https://samcg2.github.io/bearings-audio/cover.jpg"/>
+  <image><url>https://samcg2.github.io/bearings-audio/cover.jpg</url><title>Bearings</title><link>https://samcg2.github.io/bearings-audio/</link></image>
+  <itunes:category text="Religion &amp; Spirituality"/>
+  <itunes:explicit>false</itunes:explicit>
+  <item>
+    <title>Deep dive – Fix the ordinary work before you add AI</title>
+    <description>The Housing LIN's AI survey of specialist and supported housing, and four responses to it: only eight of 33 providers had evaluated their AI and five of 40 had involved residents, while two small providers cut empty-room time from fifteen days to five by sorting out their process first. Then the new government and CQC expectations, what it means for AI and Our Values and Walking Together, and what a chief executive would check before the 31 January telecare switch-off.</description>
+    <itunes:summary>The Housing LIN's AI survey of specialist and supported housing, and four responses to it: only eight of 33 providers had evaluated their AI and five of 40 had involved residents, while two small providers cut empty-room time from fifteen days to five by sorting out their process first. Then the new government and CQC expectations, what it means for AI and Our Values and Walking Together, and what a chief executive would check before the 31 January telecare switch-off.</itunes:summary>
+    <enclosure url="https://samcg2.github.io/bearings-audio/episodes/deep-2026-11-18-ordinary-work-before-ai.mp3" length="12478246" type="audio/mpeg"/>
+    <guid isPermaLink="false">deep-2026-11-18-ordinary-work-before-ai</guid>
+    <pubDate>Wed, 18 Nov 2026 07:00:00 +0000</pubDate>
+    <itunes:duration>1558</itunes:duration>
+    <itunes:episodeType>bonus</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Deep dive – Who is in charge of social care?</title>
+    <description>The Nuffield Trust and Institute for Government's governance report for the Casey Commission: how England's care system came to have no steward, the choices on eligibility, fees, market oversight and workforce, and what nine other countries do. Then what it means for MHA and Walking Together, and how a chief executive would prepare before the Commission reports in summer 2027.</description>
+    <itunes:summary>The Nuffield Trust and Institute for Government's governance report for the Casey Commission: how England's care system came to have no steward, the choices on eligibility, fees, market oversight and workforce, and what nine other countries do. Then what it means for MHA and Walking Together, and how a chief executive would prepare before the Commission reports in summer 2027.</itunes:summary>
+    <enclosure url="https://samcg2.github.io/bearings-audio/episodes/deep-2026-11-17-who-is-in-charge.mp3" length="13356413" type="audio/mpeg"/>
+    <guid isPermaLink="false">deep-2026-11-17-who-is-in-charge</guid>
+    <pubDate>Tue, 17 Nov 2026 07:00:00 +0000</pubDate>
+    <itunes:duration>1667</itunes:duration>
+    <itunes:episodeType>bonus</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Bearings No. 3 – No one is in charge</title>
+    <description>Casey's first evidence on who runs social care, a Jewish care home that lets researchers move in, and the housing roadmap for later life. Then six more in brief, and this week's leadership question: what problem does your strategy solve?</description>
+    <itunes:summary>Casey's first evidence on who runs social care, a Jewish care home that lets researchers move in, and the housing roadmap for later life. Then six more in brief, and this week's leadership question: what problem does your strategy solve?</itunes:summary>
+    <enclosure url="https://samcg2.github.io/bearings-audio/episodes/bearings-003-2026-11-16.mp3" length="6617811" type="audio/mpeg"/>
+    <guid isPermaLink="false">bearings-003-2026-11-16</guid>
+    <pubDate>Mon, 16 Nov 2026 07:00:00 +0000</pubDate>
+    <itunes:duration>826</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
